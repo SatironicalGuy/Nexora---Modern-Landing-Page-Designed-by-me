@@ -1,0 +1,5 @@
+{
+    "rewrites": [
+      { "source": "/", "destination": "/Nexora - Modern Landing Page, Designed by me.html" }
+    ]
+  }
